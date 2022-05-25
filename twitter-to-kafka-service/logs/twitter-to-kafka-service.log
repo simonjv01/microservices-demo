@@ -1,0 +1,23 @@
+2022-05-25 02:16:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.2 on Simons-MBP.columbus.rr.com with PID 3378 (/Users/simonvargas/Dev/UdemyProjects/microservices-demo/twitter-to-kafka-service/target/classes started by simonvargas in /Users/simonvargas/Dev/UdemyProjects/microservices-demo)
+2022-05-25 02:16:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-05-25 02:16:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.336 seconds (JVM running for 0.726)
+2022-05-25 02:16:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App Starts...
+2022-05-25 02:16:53 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-25 10:12:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.2 on Simons-MacBook-Pro.local with PID 1715 (/Users/simonvargas/Dev/UdemyProjects/microservices-demo/twitter-to-kafka-service/target/classes started by simonvargas in /Users/simonvargas/Dev/UdemyProjects/microservices-demo)
+2022-05-25 10:12:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-05-25 10:12:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.333 seconds (JVM running for 0.717)
+2022-05-25 10:12:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App Starts...
+2022-05-25 10:12:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-25 10:12:18 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2022-05-25 10:12:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.2 on Simons-MacBook-Pro.local with PID 1723 (/Users/simonvargas/Dev/UdemyProjects/microservices-demo/twitter-to-kafka-service/target/classes started by simonvargas in /Users/simonvargas/Dev/UdemyProjects/microservices-demo)
+2022-05-25 10:12:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-05-25 10:12:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.316 seconds (JVM running for 0.577)
+2022-05-25 10:12:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App Starts...
+2022-05-25 10:12:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-25 10:12:45 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2022-05-25 10:16:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.2 on Simons-MacBook-Pro.local with PID 1736 (/Users/simonvargas/Dev/UdemyProjects/microservices-demo/twitter-to-kafka-service/target/classes started by simonvargas in /Users/simonvargas/Dev/UdemyProjects/microservices-demo)
+2022-05-25 10:16:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2022-05-25 10:16:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.328 seconds (JVM running for 0.584)
+2022-05-25 10:16:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App Starts...
+2022-05-25 10:16:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-25 10:16:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
